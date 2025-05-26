@@ -22,7 +22,8 @@ git add . para añadir un carrusel  al proyecto y actulizando los rarchivos.
 git add . para realizar los cambios del Develop al preyecto.
 git commit para añadir los cambios a todo el preyecto iamgenes,funcionaliad, enlaces.
 git add . para docuementar el readmi del proyecto.
-git commit para añadir los cambios al poyecto. 
+git commit para añadir los cambios al poyecto.
+git tag par versionar el proyecto por el Develop. 
 ## Coamndos git por el Feature realizados
 git add . a los archivos creados servicios,precios,integracion.
 git commit para el diseño de los archivos creado 
